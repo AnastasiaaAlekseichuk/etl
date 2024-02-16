@@ -21,3 +21,7 @@
 14 вариант. Дороги и транспорт-2. Железнодорожные вокзалы Москвы https://data.mos.ru/opendata/62201?pageSize=10&pageIndex=0
 
 [ПР_1_упр_3_АлексейчукАА.ipynb](ПР1/ПР_1_упр_3_АлексейчукАА.ipynb) (делала в VS Code, тк в Google Colaboratory часть кодов не работали).
+
+
+
+**Верххнеуровневая архитектура аналитического решения** - https://drive.google.com/file/d/1uk6bD8D4uBl83Kpjf8kccGSkJ6kXp3hg/view?usp=sharing
