@@ -25,3 +25,11 @@
 
 
 **Верххнеуровневая архитектура аналитического решения** - https://drive.google.com/file/d/1uk6bD8D4uBl83Kpjf8kccGSkJ6kXp3hg/view?usp=sharing
+
+
+
+
+# Практическая работа 2. Работа с данными в DASK
+
+Самостоятельная работа вариант 14 Parking_Violations_Issued_-_Fiscal_Year_2015.csv.
+[ПР_2_Проектный_практикум_по_разработке_ETL_решений.ipynb]()
