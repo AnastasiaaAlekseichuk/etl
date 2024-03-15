@@ -38,3 +38,8 @@
 
 
 # Практическая работа 3. Работа с API. Тестовые наборы данных Kaggle API
+
+**Верххнеуровневая архитектура аналитического решения** - https://drive.google.com/file/d/1vTbxXvXYKh8t7jo4xu0GKF2KmKs5lwTD/view?usp=sharing
+
+14 вариант. Avocado Prices.
+
