@@ -43,5 +43,5 @@
 
 14 вариант. Avocado Prices. [ПР_3_АлексейчукАА.ipynb](ПР3/ПР_3_АлексейчукАА.ipynb)
 
-Визуализация в DataLens https://datalens.yandex.ru/gl95s0jb465c4-avocado-prices-dashboard
+Визуализация в DataLens https://datalens.yandex/gl95s0jb465c4
 
