@@ -45,3 +45,7 @@
 
 Визуализация в DataLens https://datalens.yandex/gl95s0jb465c4
 
+
+
+# Практическая работа 5. Airflow DAG
+
